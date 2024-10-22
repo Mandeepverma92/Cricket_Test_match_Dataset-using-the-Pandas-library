@@ -2,6 +2,7 @@
 The analysis aims to explore various aspects of batting and bowling performance, identify key players, and detect patterns or trends defining success in Test cricket.
 
 I analyzed the "Cricket_Test_match_Dataset" using the Pandas library and solved important questions about this dataset
+
 ➡️Objective
 The main objective of analyzing the Cricket Test Match dataset using the Pandas library is to gain insights into player performances and career statistics over time. The analysis aims to explore various aspects of batting and bowling performance, identify key players, and detect patterns or trends defining success in Test cricket.
 
